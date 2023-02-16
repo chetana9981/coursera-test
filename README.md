@@ -17,9 +17,9 @@ Coursera test repository
   open cmd
   => git --version
   => node --version
-    => npm --version
+    -> npm --version
   => npm install -g browser-sync
-    => >browser-sync --version
+    -> browser-sync --version
     
 3. git repository
 
