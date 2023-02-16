@@ -27,6 +27,6 @@ Coursera test repository
   => for creating git page
      => repository settings -> pages -> branch -> main -> save 
   => to display your git page (you'll see readme file)
-     => https://chetana9981.github.io/coursera-test/
+     => http://chetana9981.github.io/coursera-test/
      
 
