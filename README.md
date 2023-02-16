@@ -29,4 +29,8 @@ Coursera test repository
   => to display your git page (you'll see readme file)
      => http://chetana9981.github.io/coursera-test/
      
+4. clone repository
+
+  => open cmd  -> git clone (paste git repo url)  ->  dir  ->  cd coursera-test
+     
 
